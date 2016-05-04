@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Family="xess" Version="2">
+  <Settings />
+  <DataSources>
+    <DataSource ID="6791e4c0-b880-4a9a-b1db-2feae3e7a49d" Title="New Excel Data Source" Type="Microsoft Excel" TableName="6791e4c0-b880-4a9a-b1db-2feae3e7a49d">
+      <Connection>Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\Sandbox\My Code\Git\NxtGenerator\Files\Datasets\People.xlsx;Extended Properties="Excel 12.0;HDR=YesIMEX=1";</Connection>
+      <FilePath>D:\Sandbox\My Code\Git\NxtGenerator\Files\Datasets\People.xlsx</FilePath>
+      <Sheet>Sheet1</Sheet>
+      <TopLeftCell></TopLeftCell>
+      <BottomRightCell></BottomRightCell>
+      <Provider>Excel 2010 (32/64 bit) ACE Driver</Provider>
+    </DataSource>
+  </DataSources>
+  <DataMatrixList />
+  <Templates>
+    <Template Title="People" ID="cc0b145f-b19a-47f8-b59f-3f3cf01bea2c" FileType="TXT">
+      <HasFile>false</HasFile>
+      <FilePath></FilePath>
+      <Description><![CDATA[]]></Description>
+      <TemplateSection ID="cba6870b-4525-43ab-bb08-5cf66b105776" Ordinal="1" DataSourceID="6791e4c0-b880-4a9a-b1db-2feae3e7a49d" Title="People Section">
+        <Description><![CDATA[]]></Description>
+        <HeaderBlueprint><![CDATA[]]></HeaderBlueprint>
+        <Blueprint><![CDATA[]]></Blueprint>
+        <FooterBlueprint><![CDATA[]]></FooterBlueprint>
+      </TemplateSection>
+    </Template>
+  </Templates>
+</Project>
