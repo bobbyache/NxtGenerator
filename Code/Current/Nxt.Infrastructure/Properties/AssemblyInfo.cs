@@ -8,11 +8,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Nxt.Domain.Generator")]
+[assembly: AssemblyTitle("Nxt.Infrastructure")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Nxt.Domain.Generator")]
+[assembly: AssemblyProduct("Nxt.Infrastructure")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -23,7 +23,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5986ff53-afc3-4fb6-8d98-9374b982dd07")]
+[assembly: Guid("8f29cef3-fdf5-4fa5-ae51-6042ab162e17")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -56,6 +56,10 @@
       <Project>{fe608f55-2a0a-43d3-8c0e-dde73cffae9d}</Project>
       <Name>Nxt.Domain.Generator</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Nxt.Infrastructure\Nxt.Infrastructure.csproj">
+      <Project>{2e12583c-8062-4994-89a5-b4dcc7e6f65a}</Project>
+      <Name>Nxt.Infrastructure</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Files\helloworld.txt">

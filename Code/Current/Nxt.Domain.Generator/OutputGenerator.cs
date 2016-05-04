@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Nxt.Domain.Generator
 {
-    class OutputGenerator
+    public class OutputGenerator
     {
     }
 }
