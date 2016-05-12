@@ -2,7 +2,7 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// Allo unit tests to see internals
+// Allow unit tests to see internals
 [assembly: InternalsVisibleTo("UnitTests")]
 
 // General Information about an assembly is controlled through the following 
